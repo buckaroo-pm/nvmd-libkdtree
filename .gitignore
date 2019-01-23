@@ -10,3 +10,10 @@ configure
 install-sh
 missing
 stamp-h1
+
+buck-out
+.buckd
+buckaroo
+buckaroo_macros.bzl
+.buckconfig.d
+.buckconfig.local
