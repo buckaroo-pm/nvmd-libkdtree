@@ -1,5 +1,6 @@
 cxx_library(
-  name = "kdtree++",
+  name = "kdtree",
+  header_namespace = "kdtree++",
   srcs = [],
   exported_headers = glob(["kdtree++/*.hpp"]),
   visibility = ["PUBLIC"]
